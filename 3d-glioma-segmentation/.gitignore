@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.python_version
+
+# VSCode
+.vscode/
+
+# Jupyter Notebooks
+.ipynb_checkpoints/
+
+# Other
+.DS_Store
+
+# Ignore large files or unnecessary logs
+data/
+data_explore/
+/Roadmaps
+__pycache__/
