@@ -17,3 +17,4 @@ __pycache__/
 # Ignore large files or unnecessary logs
 data/
 Roadmap.md
+notebooks/README.md
