@@ -1,0 +1,24 @@
+# Ignore large medical imaging files
+*.nii.gz
+
+# Ignore dataset folders
+data/
+
+# Ignore Python cache files
+__pycache__/
+*.pyc
+*.pyo
+
+# Ignore logs and temporary files
+*.log
+*.tmp
+*.csv
+*.json
+
+# Ignore output directories
+outputs/
+experiments/
+results/
+Project/
+Lecture/
+test/
