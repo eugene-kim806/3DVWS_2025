@@ -9,13 +9,5 @@ __pycache__/
 *.pyc
 *.pyo
 
-# Ignore logs and temporary files
-*.log
-*.tmp
-*.csv
-*.json
-
 # Ignore output directories
 outputs/
-experiments/
-results/
