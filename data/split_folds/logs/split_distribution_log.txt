@@ -1,0 +1,56 @@
+**Fold Distribution Summary**
+  - Total Patients: 731
+  - Total Timepoints: 1621
+========================= Fold 1 =========================
+➝ CSV saved at: /home/ek3dw25/3d-glioma-segmentation/BraTS2024_GLI_post_treatment/data/split_folds/split_fold_1.csv
+# Validation: 147 Patients, 325 Total Timepoints
+   - 1 Patients with 10 Timepoints
+   - 4 Patients with 6 Timepoints
+   - 5 Patients with 5 Timepoints
+   - 7 Patients with 4 Timepoints
+   - 14 Patients with 3 Timepoints
+   - 80 Patients with 2 Timepoints
+   - 36 Patients with 1 Timepoint
+========================= Fold 2 =========================
+➝ CSV saved at: /home/ek3dw25/3d-glioma-segmentation/BraTS2024_GLI_post_treatment/data/split_folds/split_fold_2.csv
+# Validation: 146 Patients, 324 Total Timepoints
+   - 1 Patients with 8 Timepoints
+   - 1 Patients with 7 Timepoints
+   - 3 Patients with 6 Timepoints
+   - 5 Patients with 5 Timepoints
+   - 8 Patients with 4 Timepoints
+   - 12 Patients with 3 Timepoints
+   - 82 Patients with 2 Timepoints
+   - 34 Patients with 1 Timepoint
+========================= Fold 3 =========================
+➝ CSV saved at: /home/ek3dw25/3d-glioma-segmentation/BraTS2024_GLI_post_treatment/data/split_folds/split_fold_3.csv
+# Validation: 146 Patients, 324 Total Timepoints
+   - 1 Patients with 8 Timepoints
+   - 1 Patients with 7 Timepoints
+   - 3 Patients with 6 Timepoints
+   - 5 Patients with 5 Timepoints
+   - 8 Patients with 4 Timepoints
+   - 12 Patients with 3 Timepoints
+   - 82 Patients with 2 Timepoints
+   - 34 Patients with 1 Timepoint
+========================= Fold 4 =========================
+➝ CSV saved at: /home/ek3dw25/3d-glioma-segmentation/BraTS2024_GLI_post_treatment/data/split_folds/split_fold_4.csv
+# Validation: 146 Patients, 324 Total Timepoints
+   - 1 Patients with 8 Timepoints
+   - 1 Patients with 7 Timepoints
+   - 3 Patients with 6 Timepoints
+   - 5 Patients with 5 Timepoints
+   - 7 Patients with 4 Timepoints
+   - 14 Patients with 3 Timepoints
+   - 81 Patients with 2 Timepoints
+   - 34 Patients with 1 Timepoint
+========================= Fold 5 =========================
+➝ CSV saved at: /home/ek3dw25/3d-glioma-segmentation/BraTS2024_GLI_post_treatment/data/split_folds/split_fold_5.csv
+# Validation: 146 Patients, 324 Total Timepoints
+   - 2 Patients with 7 Timepoints
+   - 3 Patients with 6 Timepoints
+   - 6 Patients with 5 Timepoints
+   - 6 Patients with 4 Timepoints
+   - 14 Patients with 3 Timepoints
+   - 81 Patients with 2 Timepoints
+   - 34 Patients with 1 Timepoint

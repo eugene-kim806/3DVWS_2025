@@ -2,7 +2,7 @@
 *.nii.gz
 
 # Ignore dataset folders
-data/
+data/raw/
 
 # Ignore Python cache files
 __pycache__/
