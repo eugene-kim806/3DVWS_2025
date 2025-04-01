@@ -17,5 +17,8 @@ class Config:
 
     # Data Augmentation
     patch_size: int = 96
-    pos_ratio: float = 1.0
-    neg_ratio: float = 1.0
+    pos_ratio: float = 2.0
+    neg_ratio: float = 0.5
+
+    # Save
+    example_dir: str = '/home/ek3dw25/3d-glioma-segmentation/BraTS2024_GLI_post_treatment/examples'
