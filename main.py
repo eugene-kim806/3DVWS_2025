@@ -1,6 +1,7 @@
 import matplotlib.pyplot as plt
 import numpy as np
 from pathlib import Path
+from torch.utils.data import DataLoader
 
 from src.configs import Config
 from src.data_preprocessing.split_data import generate_splits, load_cases_split
@@ -33,5 +34,23 @@ if __name__ == "__main__":
 
     # image, seg, idx, name, affine = train_dataset[1]
     # visualize_mri(args, image, seg, name)
+
+    train_loader = DataLoader(
+        train_dataset,
+        batch_size=args.batch_size,
+        shuffle=True,
+        drop_last=False,
+        num_workers=args.num_workers,
+        pin_memory=True,
+    )
+
+    valid_loader = DataLoader(
+        valid_dataset,
+        batch_size=args.batch_size,
+        shuffle=False,
+        drop_last=False,
+        num_workers=args.num_workers,
+        pin_memory=True,
+    )
 
    

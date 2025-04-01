@@ -22,3 +22,6 @@ class Config:
 
     # Save
     example_dir: str = '/home/ek3dw25/3d-glioma-segmentation/BraTS2024_GLI_post_treatment/examples'
+
+    # Optimization
+    batch_size: int = 6
