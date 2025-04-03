@@ -25,3 +25,10 @@ class Config:
 
     # Optimization
     batch_size: int = 6
+
+    # 3D U-Net
+    in_channels: int = 4  # modalities: T1, T1Gd, T2, FLAIR
+    out_channels: int = 5  # background: 0, NETC: 1, SNFH: 2, ET: 3, RC: 4
+    features: tuple = (32, 64, 128)  # the number of feature maps at each level of the U-Net
+    strides: tuple = (2, 2)  # the downsampling factor at each level of the U-Net
+    normalization: str = 'batch'  # the normalization type: 'batch' or 'instance'
