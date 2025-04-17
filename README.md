@@ -44,4 +44,8 @@ The project uses data from the **BraTS 2024 Adult Glioma Post-Treatment Challeng
 - 1 segmentation label map (`seg.nii.gz`)
 
 Label mapping:
-0 = Background 1 = Non-enhancing Tumor Core (NETC) 2 = SNFH 3 = Enhancing Tumor (ET) 4 = Resection Cavity (RC)
+- 0 = Background
+- 1 = Non-enhancing Tumor Core (NETC)
+- 2 = SNFH
+- 3 = Enhancing Tumor (ET)
+- 4 = Resection Cavity (RC)
