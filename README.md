@@ -49,3 +49,16 @@ Label mapping:
 - 2 = SNFH
 - 3 = Enhancing Tumor (ET)
 - 4 = Resection Cavity (RC)
+
+> 🔒 Validation labels were not provided due to challenge policy. Inference results were evaluated qualitatively or via comparison to BraTS 2024 baseline algorithms (provided).
+
+---
+
+## 🛠️ Features
+
+✅ Modular structure (exploration → preprocessing → training → evaluation)  
+✅ Patch-wise 3D U-Net for memory-efficient segmentation  
+✅ Supports 5-fold cross-validation  
+✅ Lesion-wise Dice Score & Hausdorff 95 computation  
+✅ 3D Slicer-compatible output for visualization  
+✅ Inference comparison with BraTS 2024 baseline model
