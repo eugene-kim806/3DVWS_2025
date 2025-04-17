@@ -35,3 +35,13 @@ This project focuses on **automatic 3D segmentation of post-treatment gliomas** 
 Developed as part of my individual project at the 3D Vision Winter School 2025, this repository includes preprocessing, training, inference, evaluation, and visualization modules.
 
 ---
+
+## 🗂️ Dataset
+
+The project uses data from the **BraTS 2024 Adult Glioma Post-Treatment Challenge**. Each subject contains:
+
+- 4 mpMRI sequences: `t1n`, `t1c`, `t2w`, `t2f`
+- 1 segmentation label map (`seg.nii.gz`)
+
+Label mapping:
+
