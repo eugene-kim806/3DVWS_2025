@@ -32,6 +32,6 @@ This project focuses on **automatic 3D segmentation of post-treatment gliomas** 
 - 🔵 Enhancing tissue (ET)
 - 🟡 Resection cavity (RC)
 
-Developed as part of my individual project at the Winter School on 3D Vision 2025, this repository includes preprocessing, training, inference, evaluation, and visualization modules.
+Developed as part of my individual project at the 3D Vision Winter School 2025, this repository includes preprocessing, training, inference, evaluation, and visualization modules.
 
 ---
