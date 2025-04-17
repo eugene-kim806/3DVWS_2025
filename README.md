@@ -4,7 +4,7 @@
 [![Python](https://img.shields.io/badge/python-3.8%2B-blue.svg)](https://www.python.org/)
 [![Status](https://img.shields.io/badge/status-In%20Progress-yellow.svg)]()
 
-> Winter School on 3D Vision 2025 – Individual Project
+> 3D Vision Winter School 2025 – Individual Project
 
 ---
 
