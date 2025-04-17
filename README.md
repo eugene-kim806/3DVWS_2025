@@ -22,3 +22,16 @@
 - [📄 License](#-license)
 
 ---
+
+## 📌 Project Overview
+
+This project focuses on **automatic 3D segmentation of post-treatment gliomas** using multiparametric MRI (mpMRI) from the **BraTS 2024 dataset**. The goal is to segment clinically relevant tumor sub-regions:
+
+- 🔴 Non-enhancing tumor core (NETC)
+- 🟢 Surrounding non-enhancing FLAIR hyperintensity (SNFH)
+- 🔵 Enhancing tissue (ET)
+- 🟡 Resection cavity (RC)
+
+Developed as part of my individual project at the Winter School on 3D Vision 2025, this repository includes preprocessing, training, inference, evaluation, and visualization modules.
+
+---
