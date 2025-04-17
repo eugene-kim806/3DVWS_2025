@@ -7,3 +7,18 @@
 > Winter School on 3D Vision 2025 – Individual Project
 
 ---
+
+## 📚 Table of Contents
+
+- [📌 Project Overview](#-project-overview)
+- [🗂️ Dataset](#️-dataset)
+- [🛠️ Features](#️-features)
+- [🏗️ Project Structure](#-project-structure)
+- [🚀 Getting Started](#-getting-started)
+- [📊 Results](#-results)
+- [📈 Visualizations](#-visualizations)
+- [🔮 Future Work](#-future-work)
+- [🧑‍💻 Author](#-author)
+- [📄 License](#-license)
+
+---
