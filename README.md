@@ -118,10 +118,11 @@ python main.py
 ## 📊 Results
 
 | -    | -      | -            | Lesionwise Dice           | Lesionwise HD95           |
+| ---- | ------ | ------------ | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
 | Fold | Epochs | Model        |  ET  | NETC | SNFH |  RC  |  ET  | NETC | SNFH |  RC  |
 | ---- | ------ | ------------ | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
 | 1    | 10     | 3D U-Net     |      |      |      |      |      |      |      |      |
-|      |        | BraTS Winner |      |      |      |      |      |      |      |      |
+| -    | -      | BraTS Winner |      |      |      |      |      |      |      |      |
 
 > ⚠️ Due to hardware and time limitations, only Fold 1 was trained for 10 epochs.
 
