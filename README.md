@@ -117,7 +117,7 @@ python main.py
 
 ## 📊 Results
 
-| Fold | Epochs | Model        | Dice ET | Dice NETC | Dice SNFH | Dice RC | HD95 ET | HD95 NETC | HD95 SNFH | HD95 RC |
+| Fold | Epochs | Model        | Dice ET | Dice NETC | Dice SNFH | Dice RC |   HD95 ET   |   HD95 NETC   |   HD95 SNFH   |   HD95 RC   |
 |------|--------|--------------|---------|-----------|-----------|---------|---------|-----------|-----------|---------|
 | 1    | 10     | 3D U-Net     | 0.9248  |  0.0112   |  0.9474   | 0.8495  | 1.4142 mm  |   31.064 mm  |   1.4142 mm  |  5.0990 mm |
 | "    | "      | BraTS Winner |         |           |           |         |         |           |           |         |
