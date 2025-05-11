@@ -77,6 +77,15 @@ Label mapping:
 
 ## 🏗️ Project Structure
 
+```
+data/raw/TrainingData/BraTS-GLI-00005-100/
+├── BraTS-GLI-00005-100-t1c.nii.gz
+├── BraTS-GLI-00005-100-t1n.nii.gz
+├── BraTS-GLI-00005-100-t2f.nii.gz
+├── BraTS-GLI-00005-100-t2w.nii.gz
+└── BraTS-GLI-00005-100-seg.nii.gz
+```
+
 ---
 
 ## 🚀 Getting Started
@@ -85,6 +94,18 @@ Label mapping:
 
 ```bash
 git clone https://github.com/eugene-kim806/3DVWS_2025.git
+```
+
+### 2. Install Dependencies
+
+```bash
+pip install -r requirements.txt
+```
+
+### 3. Data Preprocessing
+
+```bash
+cd src/data_preprocessing
 ```
 
 ---
