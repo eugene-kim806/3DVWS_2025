@@ -77,6 +77,28 @@ Label mapping:
 
 ## 🏗️ Project Structure
 
+```
+
+3DVWS_2025/
+│
+├── data/                      
+│   ├── raw/                   # Raw .nii.gz files per subject
+│   └── split_folds/          # Split folds (.csv)
+│
+├── src/
+│   ├── dataset/               # Custom PyTorch dataset & loader
+│   ├── preprocessing/         # Resampling, normalization
+│   ├── models/                # 3D U-Net and other architectures
+│   ├── training/              # Training loop, logging
+│   ├── evaluation/            # Metric computation
+│   └── visualization/         # 3D visualization helpers
+│
+├── results/                   # Inference masks, visualizations
+├── requirements.txt
+└── README.md
+
+```
+
 ---
 
 ## 🚀 Getting Started
