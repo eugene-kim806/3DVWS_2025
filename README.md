@@ -77,15 +77,6 @@ Label mapping:
 
 ## 🏗️ Project Structure
 
-```
-data/raw/TrainingData/BraTS-GLI-00005-100/
-├── BraTS-GLI-00005-100-t1c.nii.gz
-├── BraTS-GLI-00005-100-t1n.nii.gz
-├── BraTS-GLI-00005-100-t2f.nii.gz
-├── BraTS-GLI-00005-100-t2w.nii.gz
-└── BraTS-GLI-00005-100-seg.nii.gz
-```
-
 ---
 
 ## 🚀 Getting Started
@@ -94,6 +85,7 @@ data/raw/TrainingData/BraTS-GLI-00005-100/
 
 ```bash
 git clone https://github.com/eugene-kim806/3DVWS_2025.git
+cd 3DVWS_2025
 ```
 
 ### 2. Install Dependencies
@@ -102,10 +94,17 @@ git clone https://github.com/eugene-kim806/3DVWS_2025.git
 pip install -r requirements.txt
 ```
 
-### 3. Data Preprocessing
+### 3. Organize the data
 
-```bash
-cd src/data_preprocessing
+Place BraTS 2024 data under the `data/raw/TrainingData` directory:
+
+```
+data/raw/TrainingData/BraTS-GLI-00005-100/
+├── BraTS-GLI-00005-100-t1c.nii.gz
+├── BraTS-GLI-00005-100-t1n.nii.gz
+├── BraTS-GLI-00005-100-t2f.nii.gz
+├── BraTS-GLI-00005-100-t2w.nii.gz
+└── BraTS-GLI-00005-100-seg.nii.gz
 ```
 
 ---
