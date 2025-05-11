@@ -117,6 +117,16 @@ python main.py
 
 ## 📊 Results
 
+| Fold | Epochs | Lesionwise Dice | Lesionwise HD95 |
+| ---- | ------ | --------------- | --------------- |
+| 1    | 10     | 0.65            | 8.4 mm          |
+| 2    | –      | –               | –               |
+| 3    | -      | -               | -               |
+| 4    | -      | -               | -               |
+| 5    | -      | -               | -               |
+
+> ⚠️ Due to hardware and time limitations, only Fold 1 was trained for 10 epochs.
+
 ---
 
 ## 📈 Visualizations
