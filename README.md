@@ -120,7 +120,7 @@ python main.py
 | Fold | Epochs | Model        | Dice ET | Dice NETC | Dice SNFH | Dice RC | HD95 ET | HD95 NETC | HD95 SNFH | HD95 RC |
 |------|--------|--------------|---------|-----------|-----------|---------|---------|-----------|-----------|---------|
 | 1    | 10     | 3D U-Net     |         |           |           |         |         |           |           |         |
-| -    | -      | BraTS Winner |         |           |           |         |         |           |           |         |
+| "    | "      | BraTS Winner |         |           |           |         |         |           |           |         |
 
 > ⚠️ Due to hardware and time limitations, only Fold 1 was trained for 10 epochs.
 
