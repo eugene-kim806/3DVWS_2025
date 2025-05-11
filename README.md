@@ -13,7 +13,7 @@
 - [📌 Project Overview](#-project-overview)
 - [🗂️ Dataset](#️-dataset)
 - [🛠️ Features](#️-features)
-- [🏗️ Project Structure](#-project-structure)
+- [🏗️ Structure](#-structure)
 - [🚀 Getting Started](#-getting-started)
 - [📊 Results](#-results)
 - [📈 Visualizations](#-visualizations)
@@ -74,7 +74,7 @@ Label mapping:
 
 ---
 
-## 🏗️ Project Structure
+## 🏗️ Structure
 
 ---
 
