@@ -31,6 +31,8 @@ This project focuses on **automatic 3D segmentation of post-treatment gliomas** 
 - 🟢 Surrounding non-enhancing FLAIR hyperintensity (SNFH)
 - 🔵 Enhancing tissue (ET)
 - 🟡 Resection cavity (RC)
+  
+  <img src="materials/labels_2D.png" width="700"/>
 
 Developed as part of my individual project at the 3D Vision Winter School 2025, this repository includes preprocessing, training, inference, evaluation, and visualization modules.
 
@@ -56,8 +58,6 @@ Label mapping:
 - 2 = SNFH
 - 3 = Enhancing Tumor (ET)
 - 4 = Resection Cavity (RC)
-
-<img src="materials/labels_2D.png" width="350"/>
 
 > 🔒 Validation labels were not provided due to challenge policy. Inference results were evaluated qualitatively or via comparison to BraTS 2024 baseline algorithms (provided).
 
