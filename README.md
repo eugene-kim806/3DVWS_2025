@@ -117,7 +117,7 @@ python main.py
 
 ## 📊 Results
 
-Tables comparing dice scores and Hausdorff distance at 95th percentile between the challenge winner’s model and 3D U-Net model for each lesion type.
+Table comparing dice scores and Hausdorff distance at 95th percentile between the challenge winner’s model and 3D U-Net model for each lesion type.
 
 | Fold | Epochs | Model        | Dice ET | Dice NETC | Dice SNFH | Dice RC |   HD95 ET   |   HD95 NETC   |   HD95 SNFH   |   HD95 RC   |
 |------|--------|--------------|---------|-----------|-----------|---------|-------------|---------------|---------------|-------------|
