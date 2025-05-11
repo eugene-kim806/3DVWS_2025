@@ -57,6 +57,8 @@ Label mapping:
 - 3 = Enhancing Tumor (ET)
 - 4 = Resection Cavity (RC)
 
+<img src="materials/labes_2D.png" width="350"/>
+
 > 🔒 Validation labels were not provided due to challenge policy. Inference results were evaluated qualitatively or via comparison to BraTS 2024 baseline algorithms (provided).
 
 ---
