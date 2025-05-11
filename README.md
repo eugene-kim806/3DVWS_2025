@@ -71,3 +71,29 @@ Label mapping:
 ✅ Lesion-wise Dice Score & Hausdorff 95 computation  
 ✅ 3D Slicer-compatible output for visualization  
 ✅ Inference comparison with BraTS 2024 baseline model
+
+---
+
+## 🏗️ Project Structure
+
+---
+
+## 📊 Results
+
+---
+
+## 📈 Visualizations
+
+---
+
+## 🔮 Future Work
+
+---
+
+## 🧑‍💻 Author
+
+---
+
+## 📄 License
+
+This project is for academic use only. Please refer to the BraTS License Agreement for dataset usage.
