@@ -135,6 +135,12 @@ python main.py
 
 ## 🔮 Future Work
 
+* ✅ Train full 5 folds
+* ✅ Implement AMP, gradient accumulation, checkpointing
+* ✅ Deploy interactive 3D demo using Gradio
+* ✅ Compare lesion-level predictions across models
+* ✅ Optimize post-processing for label consistency
+
 ---
 
 ## 🧑‍💻 Author
