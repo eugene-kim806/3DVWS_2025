@@ -152,9 +152,7 @@ Table comparing dice scores and Hausdorff distance at 95th percentile between th
 
 ## 📈 Visualizations
 
-Visual comparison of predicted segmentations using:
-
-* **3D Slicer** overlays
+Visual comparison of predicted segmentations using **3D Slicer** overlays:
 
 ---
 
