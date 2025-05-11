@@ -41,7 +41,7 @@ Developed as part of my individual project at the 3D Vision Winter School 2025, 
 The project uses data from the **BraTS 2024 Adult Glioma Post-Treatment Challenge**. Each subject contains:
 
 - 4 mpMRI sequences: `t1n`, `t1c`, `t2w`, `t2f`
-  <img src="materials/t1n_rotate3D.gif" width="700"/>
+  <img src="materials/t1n_rotate3D.gif" width="350"/>
 - 1 segmentation label map (`seg.nii.gz`)
 
 Label mapping:
