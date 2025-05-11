@@ -13,7 +13,7 @@
 - [📌 Project Overview](#-project-overview)
 - [🗂️ Dataset](#️-dataset)
 - [🛠️ Features](#️-features)
-- [🏗️ Structure](#-structure)
+- [🏗️ Project Structure](#-project-structure)
 - [🚀 Getting Started](#-getting-started)
 - [📊 Results](#-results)
 - [📈 Visualizations](#-visualizations)
@@ -74,11 +74,17 @@ Label mapping:
 
 ---
 
-## 🏗️ Structure
+## 🏗️ Project Structure
 
 ---
 
 ## 🚀 Getting Started
+
+### 1. Clone this repo
+
+```bash
+git clone https://github.com/eugene-kim806/3DVWS_2025.git
+```
 
 ---
 
