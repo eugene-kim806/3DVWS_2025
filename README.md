@@ -102,11 +102,11 @@ git clone https://github.com/eugene-kim806/3DVWS_2025.git
 
 ## 🧑‍💻 Author
 
-[Eugene Kim]
+**\[Eugene Kim]**
 Winter School on 3D Vision 2025
-📧 [eugekim.Kim@ghent.ac.kr]
-🔗 [www.linkedin.com/in/eugene-kim-bb7544304]
-🐙 [github.com/eugene-kim806]
+📧 \[[eugekim.Kim@ghent.ac.kr](mailto:eugekim.Kim@ghent.ac.kr)]
+🔗 \[www.linkedin.com/in/eugene-kim-bb7544304]
+🐙 \[github.com/eugene-kim806]
 
 ---
 
