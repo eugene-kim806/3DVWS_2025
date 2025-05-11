@@ -47,7 +47,9 @@ The project uses data from the **BraTS 2024 Adult Glioma Post-Treatment Challeng
   <img src="materials/t2w_rotate3D.gif" width="350"/>
   <img src="materials/t2f_rotate3D.gif" width="350"/>
 - 1 segmentation label map (`seg.nii.gz`)
-
+  
+  <img src="materials/example_seg_rotate3D.gif" width="350"/>
+  
 Label mapping:
 - 0 = Background
 - 1 = Non-enhancing Tumor Core (NETC)
