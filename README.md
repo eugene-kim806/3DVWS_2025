@@ -88,7 +88,7 @@ git clone https://github.com/eugene-kim806/3DVWS_2025.git
 cd 3DVWS_2025
 ```
 
-### 2. Install Dependencies
+### 2. Install dependencies
 
 ```bash
 pip install -r requirements.txt
@@ -105,6 +105,12 @@ data/raw/TrainingData/BraTS-GLI-00005-100/
 ├── BraTS-GLI-00005-100-t2f.nii.gz
 ├── BraTS-GLI-00005-100-t2w.nii.gz
 └── BraTS-GLI-00005-100-seg.nii.gz
+```
+
+### 4. Run the main script
+
+```bash
+python main.py
 ```
 
 ---
