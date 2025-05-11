@@ -33,7 +33,7 @@ This project focuses on **automatic 3D segmentation of post-treatment gliomas** 
 - 🟡 Resection cavity (RC)
 
   <img src="materials/GT_whole_rotate3D.gif" width="400"/>
-  <img src="materials/labels_2D.png" width="400"/>
+  <img src="materials/labels_2D.png" width="500"/>
 
 Developed as part of my individual project at the 3D Vision Winter School 2025, this repository includes preprocessing, training, inference, evaluation, and visualization modules.
 
