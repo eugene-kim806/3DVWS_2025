@@ -49,7 +49,8 @@ The project uses data from the **BraTS 2024 Adult Glioma Post-Treatment Challeng
   
   <img src="materials/t1n_rotate3D.gif" width="300"/>
   <img src="materials/t1c_rotate3D.gif" width="300"/>
-  
+
+
   <img src="materials/t2w_rotate3D.gif" width="300"/>
   <img src="materials/t2f_rotate3D.gif" width="300"/>
   
