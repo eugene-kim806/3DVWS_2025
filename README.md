@@ -46,7 +46,7 @@ The project uses data from the **BraTS 2024 Adult Glioma Post-Treatment Challeng
 - 4 mpMRI sequences: `t1n`, `t1c`, `t2w`, `t2f`
   
   <img src="materials/t1n_rotate3D.gif" width="300"/>
-  <img src="materials/t1c_rotate3D.gif" width="280"/>
+  <img src="materials/t1c_rotate3D.gif" width="300"/>
   <img src="materials/t2w_rotate3D.gif" width="300"/>
   <img src="materials/t2f_rotate3D.gif" width="300"/>
 - 1 segmentation label map (`seg.nii.gz`)
@@ -161,9 +161,16 @@ Visual comparison of predicted segmentations using **3D Slicer** overlays:
 
 - Comparison between Ground Truth & Winner's Model
 
-  
+  <img src="materials/Win_ET_rotate3D.gif" width="400"/>
+  <img src="materials/Win_SNFH_rotate3D.gif" width="400"/>
+  <img src="materials/Win_RC_rotate3D.gif" width="400"/>
 
 - Comparison between Ground Truth & 3D-UNet Model
+
+  <img src="materials/My_ET_rotate3D.gif" width="400"/>
+  <img src="materials/My_SNFH_rotate3D.gif" width="400"/>
+  <img src="materials/My_RC_rotate3D.gif" width="400"/>
+  
 ---
 
 ## 🔮 Future Work
