@@ -33,6 +33,7 @@ This project focuses on **automatic 3D segmentation of post-treatment gliomas** 
 - 🟡 Resection cavity (RC)
 
   <img src="materials/GT_whole_rotate3D.gif" width="400"/>
+  
   <img src="materials/labels_2D.png" width="500"/>
 
 Developed as part of my individual project at the 3D Vision Winter School 2025, this repository includes preprocessing, training, inference, evaluation, and visualization modules.
@@ -49,6 +50,7 @@ The project uses data from the **BraTS 2024 Adult Glioma Post-Treatment Challeng
   <img src="materials/t1c_rotate3D.gif" width="300"/>
   <img src="materials/t2w_rotate3D.gif" width="300"/>
   <img src="materials/t2f_rotate3D.gif" width="300"/>
+  
 - 1 segmentation label map (`seg.nii.gz`)
   
   <img src="materials/example_seg_rotate3D.gif" width="350"/>
