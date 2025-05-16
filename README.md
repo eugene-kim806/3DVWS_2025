@@ -154,9 +154,9 @@ Table comparing dice scores and Hausdorff distance at 95th percentile between th
 
 Visual comparison of predicted segmentations using **3D Slicer** overlays:
 
+- Overall Comparison (Ground Truth, Winner's Model, 3D-UNet)
 <img src="materials/ET_comparison.png" width="400"/> <img src="materials/NETC_comparison.png" width="400"/>
-<img src="materials/SNFH_comparison.png" width="400"/>
-<img src="materials/RC_comparison.png" width="400"/>
+<img src="materials/SNFH_comparison.png" width="400"/> <img src="materials/RC_comparison.png" width="400"/>
 
 ---
 
