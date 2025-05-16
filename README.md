@@ -54,7 +54,7 @@ The project uses data from the **BraTS 2024 Adult Glioma Post-Treatment Challeng
   
 - 1 segmentation label map (`seg.nii.gz`)
   
-  <img src="materials/example_seg_rotate3D.gif" width="350"/>
+  <img src="materials/example_seg_rotate3D.gif" width="400"/>
   
 Label mapping:
 - 0 = Background
