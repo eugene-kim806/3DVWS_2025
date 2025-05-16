@@ -32,7 +32,8 @@ This project focuses on **automatic 3D segmentation of post-treatment gliomas** 
 - 🔵 Enhancing tissue (ET)
 - 🟡 Resection cavity (RC)
 
-  <img src="materials/GT_whole_rotate3D.gif" width="400"/>
+  <img src="materials/GT_whole_rotate3D.gif" width="500"/>
+
   
   <img src="materials/labels_2D.png" width="500"/>
 
